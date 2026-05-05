@@ -4,7 +4,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
+https://github.com/SewminiTheekshana/IT23663718-ITPM
 
 ---
 
